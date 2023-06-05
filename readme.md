@@ -14,7 +14,7 @@ The Pedestrian Detector is a Python-based application that utilizes the YOLO NAS
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your_username/pedestrian-detector.git
+   git clone https://github.com/Canahmetozguven/pedestrian-detector.git
    cd pedestrian-detector
 2. Install the required dependencies:
    ```bash
